@@ -1,0 +1,88 @@
+{
+  "login": [
+    {
+      "name": "Mohit",
+      "password": "Mohit007"
+    },
+    {
+      "name": "Bisht",
+      "password": "Bisht007"
+    },
+    {
+      "name": "Ashu",
+      "password": "Ashu007"
+    }
+  ],
+  "restaurantApi": [
+    {
+      "id": 1,
+      "name": "Domino's-Pizza",
+      "address": "Alwar",
+      "rating": "4.5",
+      "sittingCapibility": "25"
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "address": "Delhi",
+      "rating": "4.7",
+      "sittingCapibility": "35"
+    },
+    {
+      "id": 4,
+      "name": "Pizza Hut",
+      "address": "Gururam",
+      "rating": "4.5",
+      "sittingCapibility": "25"
+    },
+    {
+      "id": 5,
+      "name": "Domino's-Pizza",
+      "address": "Mohit",
+      "rating": "4.5",
+      "sittingCapibility": "25"
+    },
+    {
+      "id": 8,
+      "name": "PizzaExpress",
+      "address": "Alwar",
+      "rating": "4.5",
+      "sittingCapibility": "40"
+    },
+    {
+      "id": 9,
+      "name": "McDonald",
+      "address": "Delhi",
+      "rating": "4.5",
+      "sittingCapibility": "30"
+    },
+    {
+      "id": 12,
+      "name": "Dairy Braker",
+      "address": "Jaipur",
+      "rating": "4.5",
+      "sittingCapibility": "25"
+    },
+    {
+      "id": "14",
+      "name": "Jai Dhaba",
+      "address": "Hissar",
+      "rating": "4.9",
+      "sittingCapibility": "50"
+    },
+    {
+      "id": 10,
+      "name": "McDonald",
+      "address": "Viratnagar",
+      "rating": "4.7",
+      "sittingCapibility": "30"
+    },
+    {
+      "id": "15",
+      "name": "Chop-Shop",
+      "address": "Alwar",
+      "rating": "5.5",
+      "sittingCapibility": "30"
+    }
+  ]
+}
